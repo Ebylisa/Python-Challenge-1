@@ -1,0 +1,8 @@
+# Python Challege 1
+AI Module 2 Challenge
+
+## Challenge Background and Objective:
+The objective of this model is to design an interactive ordering system from a food truck menu. The code for the menu will allow customers to place an order, which includes storing the customer's order and printing the receipt with the total price of all items ordered. A main menu will be created along with a submenu with pricing. The code will also, require the customer’s input and provide a detailed description of items ordered such as the quantity, prices, and a total cost for a given order. This code will use lists, a dictionary, conditional statements, for loops, and match case statements. This code is available at Github under (https://github.com/Ebylisa/python-challenge/menu.py)
+
+Code Summary:
+(1) A repository was created called python-challenge-1 in Git hub. (2)  A starter file named menu.py was downloaded on the local Git repository and on GitHub. (3)  An empty list was created to store the customer order. (4) A loop function was created to allow customers to order multiple items utilizing prompts, which require customer input. (5)  The input and code was validated of the menu_selection was performed to check if this input was an integer with a corresponding error message if not an integer.  (6) A while loop  with match case function was utilized to allow the  customer to keep ordering  or to stop based on customer response to a (Yes) and (No) question. (7)  The number of empty spaces were calculated for the customers reciept to display the total in a proper format using a for loop that included the item name, price, and quantity. (10) A list comprehension function was used to calculate the total price of the order. 
